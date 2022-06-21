@@ -1,0 +1,17 @@
+[
+    {
+        "place": "montain",
+        "country": "india",
+        "classification": 4.5,
+        "image": "https://www.oyorooms.com/blog/wp-content/uploads/2019/06/7-Major-Mountain-Ranges-in-India-that-are-worth-seeing.jpg",
+        "type": "adventure",
+    },
+    {
+        "place": "lake",
+        "country": "india",
+        "classification": 4.5,
+        "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/10/Tarsar-Lake-400x238.jpg",
+        "type": "adventure",
+    }
+    
+]
